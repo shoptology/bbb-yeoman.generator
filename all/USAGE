@@ -1,0 +1,15 @@
+Description:
+    Affinitve version of BBB (Backbone Boilerplate Build) with Backbone.LayoutManager. Out of the box it includes the following: jQuery, LoDash, Backbone, Backbone.LayoutManager, HandlebarsJS, Twitter Bootstrap for Compass, Modernizr, and HTML5 Boilerplate.
+
+
+Example:
+    yeoman init affin_bbb
+
+    This will create:
+      basic app scaffolding
+
+
+    yeoman init affin_bbb:module NAME_OF_MODULE
+
+    This will create:
+        modules/NAME_OF_MODULE.js

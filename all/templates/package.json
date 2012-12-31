@@ -1,0 +1,11 @@
+{
+  "author": "<%= authorString %>",
+  "name": "<%= appName %>",
+  "version": "0.0.0",
+  "dependencies": {
+    "grunt-bump": "0.0.x",
+    "grunt-contrib-handlebars": "0.3.x",
+  },
+  "devDependencies": {},
+  "private":"true"
+}
