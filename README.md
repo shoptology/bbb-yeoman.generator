@@ -1,0 +1,2 @@
+AffinBBB-Yeoman.generator
+=========================
